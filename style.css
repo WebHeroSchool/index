@@ -3,9 +3,8 @@
 }
 .wrapper {
   margin: auto;
-  width: 80%
-  border: dashed 1px red;
-}
+  width: 80%;
+  }
 .header {
   border: dashed 1px red;
 }
