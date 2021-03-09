@@ -5,21 +5,26 @@
   margin: auto;
   width: 80%;
   }
+
 .menu {
   display: flex;
   align-items: center;
 }
+
 .menu__item {
   padding: 0 13px;
 }
+
 .menu__item:last-child {
   padding-right: 0;
 }
+
 .header {
  padding: 40px 0;
  display: flex;
  justify-content: space-between;
 }
+
 .logo {
 // padding: 40px 0;
 // font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
