@@ -5,18 +5,9 @@
   margin: auto;
   width: 80%;
   }
-//.header {
-  border: dashed 1px red;
-}
-//.logo, .menu {
-  border: dashed 1px red;
-}
 .header {
   display: flex;
   justify-content: space-between;
-}
-.logo {
-//  padding: 40px 0;
 }
 .menu {
   display: flex;
