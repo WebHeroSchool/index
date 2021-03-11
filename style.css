@@ -1,71 +1,25 @@
-.title {
-  font-family: 'Roboto', sans-serif;
-}
-.wrapper {
-  margin: auto;
-  width: 80%;
-  }
-
-.menu {
-  display: flex;
-  align-items: center;
-}
-
-.menu__item {
-  padding: 0 13px;
-}
-
-.menu__item:last-child {
-  padding-right: 0;
-}
-
-.header {
-  padding: 40px 0;
-  display: flex;
-  justify-content: space-between;
-}
-
 .logo {
-  width: 190px;
-  height: 35px;
-  background: red;
-  background: url('img/logo.svg');
+padding: 40px 0;
+font: bold 24px/31px pt_serif, arial, helvetica, sans serif;
 }
 
-.menu__item {
- padding: 0 13px;
- font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+.logo__circle {
+ width: 28px;
+ height: 28px;
+ border: dashed 1px red;
 }
 
-.menu__item {
- padding: 0 13px;
- font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
- color: #000000;
+.logo__circle_color_blue {
+ left: 8px;
+ top: 56%;
 }
 
-.menu__item {
- padding: 0 13px;
- font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
- color: #000;
- text-decoration: none;
-}
-
-.menu__item_active::after {
- display: block;
- content: '';
- width: 68px;
- height: 3px;
+.logo__circle_color_dark-blue {
  background: #0056EC;
 }
 
-.menu__item {
- position: relative;
- margin-right: 26px;
- font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
- color: #000;
- text-decoration: none;
-}
-
-.menu__item:last-child {
- margin-right: 0;
+.logo__circle_color_blue {
+ left: 8px;
+ top: 56%;
+ background: #C8DBFB;
 }
