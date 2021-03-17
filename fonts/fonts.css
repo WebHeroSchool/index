@@ -8,23 +8,7 @@
          url('ptserif-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
-
-
-
-
-@font-face {
-    font-family: 'pt_serifbold_italic';
-    src: url('ptserif-bolditalic-webfont.woff2') format('woff2'),
-         url('ptserif-bolditalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
 
 @font-face {
     font-family: 'pt_serifitalic';
@@ -32,11 +16,7 @@
          url('ptserif-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
-
-
-
 
 @font-face {
     font-family: 'pt_serifregular';
